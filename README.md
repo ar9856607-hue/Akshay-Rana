@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akshay Rana pnand I'm a 🎓 Computer Engineering Student | 💻 Learning Python, and Web Development 🛠️ Building Small Project.....</h2>
+<h2 align="left">Hi 👋! My name is Akshay Rana I'm a 🎓 Computer Engineering Student | 💻 Learning Python, and Web Development 🛠️ Building Small Project.....</h2>
 
 ###
 
