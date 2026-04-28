@@ -10,12 +10,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://count.getloli.com/@:mannat-0776?theme=rule34&padding=7&align=top&pixelated=1&darkmode=auto"  />
-</div>
-
-###
-
 <p align="center">💡 *“Crafting logic and elegance in every line of code.”*</p>
 
 ###
@@ -73,10 +67,10 @@
 ###
 
 <div align="left">
-  <a href="maannatwalia05@gmail.com" target="_blank">
+  <a href="ar-9856607@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mannat-walia-917a99329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <a href="="https://www.linkedin.com/in/akshay-r-4a0a68329?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
